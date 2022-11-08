@@ -1,1 +1,1 @@
-CMD ["python", "Hello/hello.py"]
+CMD [, "dockertest/.github/workflows/"]
